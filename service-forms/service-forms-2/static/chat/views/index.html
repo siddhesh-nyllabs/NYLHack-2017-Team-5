@@ -1,0 +1,27 @@
+<div class="view-container login-page" ng-controller="MainController as model">
+    <div class="container">
+        <div class="row">
+            <form name="MainForm" class="col-xs-6" novalidate>
+                <h1>New York Life</h1>
+                <div class="form-group">
+                    <label for="langauge">Language</label>
+                    <select ng-model="model.language" class="form-control"
+                            id="langauge" name="language">
+                        <option value="eng" selected>English</option>
+                        <option value="esp">Spanish</option>
+                        <option value="fre">French</option>
+                        <option value="ger">German</option>
+                        <option value="jpn">Japanese</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-block btn-primary"
+                            ng-click="model.register(model.language)">
+                        Proceed
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

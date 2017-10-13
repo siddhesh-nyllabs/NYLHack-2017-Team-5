@@ -1,7 +1,3 @@
-// Usage: npm start
-// Used for local serving and quick dev/testing of the prebuilt files.
-// For heavy development, you should instead use the `npm run dev` command
-// under the lex-web-ui dir
 const express = require('express');
 const path = require('path');
 

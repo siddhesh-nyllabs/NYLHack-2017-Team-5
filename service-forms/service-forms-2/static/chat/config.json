@@ -1,0 +1,19 @@
+{
+  "iframeOrigin": "http://localhost:8080",
+  "configEventTimeOutInMs": 10000,
+  "loadIframeMinimized": false,
+  "aws": {
+    "cognitoPoolId": "us-east-1:8379b755-640e-4977-92b1-510bf6ba7cb0",
+    "region": "us-east-1"
+  },
+  "iframeConfig": {
+    "lex": {
+      "sessionAttributes": {}
+    },
+    "ui": {
+    },
+    "recorder": {
+      "preset": "speech_recognition"
+    }
+  }
+}

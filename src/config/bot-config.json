@@ -1,18 +1,18 @@
 {
   "cognito": {
-    "poolId": ""
+    "poolId": "us-east-1:8379b755-640e-4977-92b1-510bf6ba7cb0"
   },
   "lex": {
-    "botName": "",
-    "initialText": "You can ask me for help ordering flowers. Just type \"Buy flowers\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'Buy Flowers' to get started."
+    "botName": "SubmitForm",
+    "initialText": "Hi there ! You can ask me for help in case you are stuck. Just type \"Form Help\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'Form Help' to get started."
   },
   "polly": {
     "voiceId": "Salli"
   },
   "ui": {
     "parentOrigin": "",
-    "toolbarTitle": "Order Flowers"
+    "toolbarTitle": "Online Help!"
   },
   "recorder": {
     "preset": "speech_recognition"

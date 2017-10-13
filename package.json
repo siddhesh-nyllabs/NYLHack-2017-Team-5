@@ -1,12 +1,8 @@
 {
-  "name": "aws-lex-web-ui",
+  "name": "nylhack",
   "version": "0.9.1",
-  "description": "Sample Amazon Lex Web Interface",
+  "description": "nylhack project",
   "main": "dist/lex-web-ui.min.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/awslabs/aws-lex-web-ui.git"
-  },
   "keywords": [
     "aws",
     "lex",
@@ -18,10 +14,6 @@
   ],
   "author": "AWS",
   "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/awslabs/aws-lex-web-ui/issues"
-  },
-  "homepage": "https://github.com/awslabs/aws-lex-web-ui#readme",
   "devDependencies": {
     "express": "^4.15.3"
   }
