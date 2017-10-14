@@ -11,7 +11,7 @@
     "voiceId": "Salli"
   },
   "ui": {
-    "parentOrigin": "http://localhost:8080",
+    "parentOrigin": "http://ec2-18-216-34-225.us-east-2.compute.amazonaws.com:8080",
     "pageTitle": "Submit Form Bot",
     "toolbarTitle": "Online Help"
   },
