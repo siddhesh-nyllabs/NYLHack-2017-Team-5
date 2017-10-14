@@ -63,7 +63,7 @@
         "ssn": "Enter your 10-digit Social Security Number"
       },
       "esp": {
-        "firstName": "Introduzca su nombre tal y como aparece en su póliza",
+          "firstName": "Introduzca su nombre tal y como aparece en su póliza",
         "lastName": "Ingrese su apellido tal como aparece en su póliza",
         "rel": "Mencione su relación con el propietario de la póliza",
         "companyName": "Introduzca la empresa para la que trabaja",
@@ -92,7 +92,7 @@
       },
     };
 
-    let audioURL = "https://s3.amazonaws.com/audioposts-nyl/";
+    let audioURL = "https://s3.amazonaws.com/audioposts-nyl-do-not-delete/";
 
     function getTrustedHtml(html) {
       return $sce.trustAsHtml(html);
