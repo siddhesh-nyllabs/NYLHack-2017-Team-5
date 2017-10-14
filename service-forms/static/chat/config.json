@@ -1,5 +1,5 @@
 {
-  "iframeOrigin": "http://localhost:8080",
+  "iframeOrigin": "http://ec2-18-216-34-225.us-east-2.compute.amazonaws.com:8080",
   "configEventTimeOutInMs": 10000,
   "loadIframeMinimized": false,
   "aws": {

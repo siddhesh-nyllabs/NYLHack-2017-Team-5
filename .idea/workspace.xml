@@ -2,9 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ece54e6b-4472-4efd-86fb-4b2841c34975" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/config/dist.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/config/test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/LexApp.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/assets/silent.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/assets/silent.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/InputContainer.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/LexWeb.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/Message.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/MessageList.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/MessageText.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/Page.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/RecorderStatus.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/ResponseCard.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/components/ToolbarContainer.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/config/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/config/config.dev.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/config/config.prod.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/config/config.test.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/lex-web-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/lib/lex/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/lib/lex/recorder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/lib/lex/wav-worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/store/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/store/getters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/store/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/store/mutations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/store/recorder-handlers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/src/store/state.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/bot-loader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/bot-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/service/chat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/service/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/service/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/chat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/chat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/tooltip.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/bot-loader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/bot-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/img/flowers.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/img/note.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.js" afterPath="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/config.json" afterPath="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-forms/static/chat/config.json" afterPath="$PROJECT_DIR$/service-forms/static/chat/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-forms/static/chat/views/register.js" afterPath="$PROJECT_DIR$/service-forms/static/chat/views/register.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-forms/static/iframe/config.json" afterPath="$PROJECT_DIR$/service-forms/static/iframe/config.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +93,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.js">
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="94" column="73" lean-forward="false" selection-start-line="94" selection-start-column="73" selection-end-line="94" selection-end-column="73" />
+              <caret line="1" column="75" lean-forward="false" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.html">
+      <file leaf-file-name="bot-loader.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/bot-loader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/chat/views/register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="122" column="73" lean-forward="false" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/chat/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/chat/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="75" lean-forward="true" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-forms/static/chat/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1127">
+              <caret line="144" column="30" lean-forward="false" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -116,13 +237,16 @@
         <option value="$PROJECT_DIR$/src/website/parent.html" />
         <option value="$PROJECT_DIR$/service-forms/static/chat/css/style.css" />
         <option value="$PROJECT_DIR$/service-forms/static/chat/views/index.html" />
-        <option value="$PROJECT_DIR$/service-forms/static/chat/views/register.js" />
         <option value="$PROJECT_DIR$/service-forms/service-forms-2/src/config/config.dev.json" />
         <option value="$PROJECT_DIR$/service-forms/service-forms-2/src/config/config.test.json" />
         <option value="$PROJECT_DIR$/service-forms/service-forms-2/src/config/config.prod.json" />
         <option value="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/config.json" />
         <option value="$PROJECT_DIR$/service-forms/service-forms-2/static/iframe/config.json" />
         <option value="$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.js" />
+        <option value="$PROJECT_DIR$/service-forms/dist/static/iframe/config.json" />
+        <option value="$PROJECT_DIR$/service-forms/static/iframe/config.json" />
+        <option value="$PROJECT_DIR$/service-forms/static/chat/config.json" />
+        <option value="$PROJECT_DIR$/service-forms/static/chat/views/register.js" />
       </list>
     </option>
   </component>
@@ -213,65 +337,18 @@
             <path>
               <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
               <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
               <item name="service-forms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
               <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
               <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
               <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
               <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="chat" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -279,7 +356,22 @@
               <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
               <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
               <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
+              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
+              <item name="service-forms" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="chat" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
@@ -288,7 +380,6 @@
               <item name="nylhack-sf" type="b2602c69:ProjectViewProjectNode" />
               <item name="nylhack-sf" type="462c0819:PsiDirectoryNode" />
               <item name="service-forms" type="462c0819:PsiDirectoryNode" />
-              <item name="service-forms-2" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="iframe" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -360,12 +451,12 @@
       <workItem from="1507618488794" duration="103000" />
       <workItem from="1507618622917" duration="152000" />
       <workItem from="1507618841126" duration="8958000" />
-      <workItem from="1507905671144" duration="3705000" />
+      <workItem from="1507905671144" duration="4619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35655000" />
+    <option name="totallyTimeSpent" value="36569000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,75 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/website/chatbot-ui-iframe-loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5675">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/bot-loader.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/chatbot-ui-iframe-loader-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1194">
-          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/website/chatbot-ui-iframe-loader.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-forms/dist/static/css/app.f26c548ee40e416da445830df2f5b69c.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="4" column="199391" lean-forward="false" selection-start-line="4" selection-start-column="199391" selection-end-line="4" selection-end-column="199391" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-forms/node_modules/vuetify/dist/vuetify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="6500" column="25" lean-forward="true" selection-start-line="6500" selection-start-column="25" selection-end-line="6500" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/lex-web-ui.js.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="0" column="173699" lean-forward="false" selection-start-line="0" selection-start-column="173699" selection-end-line="0" selection-end-column="173699" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/lex-web-ui.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="5" column="29205" lean-forward="false" selection-start-line="5" selection-start-column="29205" selection-end-line="5" selection-end-column="29205" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-forms/src/components/LexWeb.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -531,14 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-forms/static/chat/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="144" column="30" lean-forward="false" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-forms/static/chat/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2505">
@@ -559,14 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-forms/static/chat/views/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="111" column="65" lean-forward="false" selection-start-line="111" selection-start-column="65" selection-end-line="111" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -663,9 +669,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -785,9 +789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10">
           <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -803,9 +805,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1420">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -817,10 +817,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service-forms/service-forms-2/static/chat/views/register.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="57">
           <caret line="94" column="73" lean-forward="false" selection-start-line="94" selection-start-column="73" selection-end-line="94" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/dist/static/iframe/bot-loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/service-forms-2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/dist/static/iframe/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="75" lean-forward="false" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="75" lean-forward="false" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/bot-loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/iframe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/chat/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/chat/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="75" lean-forward="true" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="144" column="30" lean-forward="false" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-forms/static/chat/views/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="122" column="73" lean-forward="false" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
           <folding />
         </state>
       </provider>
